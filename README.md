@@ -108,10 +108,10 @@ We provide the official implementations (if available) for participating teams b
 | 4    | SJTU2     | MM_IPL      | [Link](#) |
 
 ---
-
+<!--
 > 📌 Note: Please replace `#` with the actual repository links.  
 > If your code is not yet public, you may update it later.
-
+-->
 
 <!-- ## 📬 Contact -->
 
